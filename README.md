@@ -4,4 +4,4 @@ Mehtha Car web page is a tutorial based web design assignment in which the we pa
 
 <i>follow link to see github hosted static Web page</i>
 
-https://github.com/RadulDev/mehtaCars
+https://raduldev.github.io/mehtaCars/
